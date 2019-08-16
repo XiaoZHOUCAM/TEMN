@@ -1,4 +1,8 @@
 #encoding:utf-8
+'''
+abnerzxzhao@tencent.com
+xz331@cam.ac.uk
+'''
 from __future__ import division
 import tensorflow as tf
 from basemodel import basemodel
