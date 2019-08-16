@@ -1,4 +1,8 @@
 #encoding:utf-8
+'''
+abnerzxzhao@tencent.com
+xz331@cam.ac.uk
+'''
 import tensorflow as tf
 
 class basemodel(object):

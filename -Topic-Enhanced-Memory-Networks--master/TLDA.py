@@ -1,5 +1,9 @@
 #encoding:utf-8
 '''
+abnerzxzhao@tencent.com
+xz331@cam.ac.uk
+'''
+'''
 the demo of TLDA
 input_data = [(doc_idx1,poi_idx1,time_idx1),(doc_idx2,poi_idx2,time_idx2),....]
 Gibson sampling
