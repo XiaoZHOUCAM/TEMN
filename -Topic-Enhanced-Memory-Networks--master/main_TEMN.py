@@ -15,7 +15,6 @@ random.shuffle(all_data)
 num_users = user_num
 num_items = poi_num
 topic_num = topic_k
-max_p_num = 100
 
 class args:
     std = 0.1
@@ -30,7 +29,7 @@ class args:
     clip_norm = 2
     dropout = 0.7
     learn_rate = 0.01
-    max_p_num = max_p_num
+    max_p_num = 100
     stddev = 0.1
     lamb_m = 0.1
     lamb_d = 0.1
