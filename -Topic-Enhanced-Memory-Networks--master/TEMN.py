@@ -1,7 +1,7 @@
 # encoding:utf-8
 """
-abnerzxzhao@tencent.com
 xz331@cam.ac.uk
+abnerzxzhao@tencent.com
 """
 from __future__ import division
 import tensorflow as tf
