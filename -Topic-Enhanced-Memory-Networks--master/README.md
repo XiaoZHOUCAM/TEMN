@@ -1,5 +1,5 @@
 # -Topic-Enhanced-Memory-Networks-
-Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation
+Paper title: Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation
 
 Environment: Python3.7 TensorFlow1.12
 
